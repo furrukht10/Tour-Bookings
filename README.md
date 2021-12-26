@@ -1,14 +1,22 @@
-# Tour-Bookings
+
+ <p align="center">
+  <a href="#how-to-use">How To Use</a> •
+  <a href="#Demo">Demo</a> •
+  <a href="#api-usage">API Documentation</a> •
+  <a href="#To Do">To-Do</a> •
+
+</p>
 
 A tour booking application where users can login and book mock tours!
 - A Full-Stack application designed with Node.js, Express.js, PUG, MongoDB
 - Developed with a RESTful API that supports CRUD Operations on MongoDB
 - Allows users to login and book tours using Stripe
 
-## **How to use application**
+## How To Use
 
 ### Deployed version: https://tour-bookings-app.herokuapp.com/
-
+<aref id="useage">How To Use
+  
 You can view different types of tours all over the world. Login as a user and book different tours!
 To view more login information, view the API. Otherwise, use these sample users to login and book.
 
@@ -28,7 +36,7 @@ Number: 4242 4242 4242 4242
 Expiry: Any Month/ Any Year
 CVC: Any 3 Digits
 ```
-### Demo
+## Demo
 
 ![Tour _ Home](https://user-images.githubusercontent.com/79553858/147397567-90434da1-1eba-4fcf-bc0e-50509db7da0e.gif)
 ![Tour _ Tours](https://user-images.githubusercontent.com/79553858/147397581-3557c9ad-ba9f-4693-b0c4-5879d77d1725.gif)
@@ -38,7 +46,7 @@ CVC: Any 3 Digits
 
 
 
-## **API Documentation**
+## API Documentation
 
 This application uses a RESTful API that supports CRUD operations on the MongoDB Database.
 You are able to:
@@ -51,7 +59,7 @@ You are able to:
 To view the full documentation of the API: please check out...
 https://documenter.getpostman.com/view/4237486/S1LwxnaE
 
-## **To Do**
+## To Do
 - Fix Mapbox glitches
 - Fix booking functionality
 - Implement sign-up functionality
