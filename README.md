@@ -71,7 +71,6 @@ To view the full documentation of the API: please check out...
 https://documenter.getpostman.com/view/4237486/S1LwxnaE
 
 ## To Do
-- Fix Mapbox glitches
 - Fix booking functionality
 - Implement sign-up functionality
 
