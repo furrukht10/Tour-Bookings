@@ -3,7 +3,7 @@
 const locations = JSON.parse(document.getElementById('map').dataset.locations);
 
 mapboxgl.accessToken =
-  'pk.eyJ1IjoiZnRyZWFwZXIxMCIsImEiOiJja3hsNTE4NGYzNmIyMnVtZmxzMG5rNGh4In0.V17Cgil6YgR_dU3rSzqm5w';
+  'pk.eyJ1IjoiZnRyZWFwZXIxMCIsImEiOiJja3huZnY2NzYzaDl3MndvazNpN3E3cjBrIn0.bwKKGWueqPYc_bqge7tuJg';
 var map = new mapboxgl.Map({
   container: 'map',
   style: 'mapbox://styles/ftreaper10/ckxl5f81k2xxn15rjdzd9o7m7',
