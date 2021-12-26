@@ -81,4 +81,4 @@ https://documenter.getpostman.com/view/4237486/S1LwxnaE
 - Implement sign-up functionality
 
 <hr>
-* This project was designed under the supervision of Jonas Schmedtmann and his Node.Js + Advanced SCSS course. *
+*This project was designed under the supervision of Jonas Schmedtmann and his Node.Js + Advanced SCSS course.*
