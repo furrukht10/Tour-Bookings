@@ -2,8 +2,8 @@
  <p align="center">
   <a href="#how-to-use">How To Use</a> •
   <a href="#Demo">Demo</a> •
-  <a href="#api-usage">API Documentation</a> •
-  <a href="#To Do">To-Do</a> •
+  <a href="#API-Documentation">API Documentation</a> •
+  <a href="#To-Do">To-Do</a> •
 
 </p>
 
