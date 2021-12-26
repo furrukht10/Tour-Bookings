@@ -8263,7 +8263,7 @@ var login = /*#__PURE__*/function () {
             if (res.data.status === 'success') {
               (0, _alerts.showAlert)('success', 'Logged in successfully!');
               window.setTimeout(function () {
-                location.assign('/');
+                location.assign('/tours');
               }, 1500);
             }
 
