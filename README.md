@@ -60,12 +60,18 @@ Home Page
 ## API Documentation
 
 This application uses a RESTful API that supports CRUD operations on the MongoDB Database.
+
+ To use in PostMan, use the following and replace the environment variables with yours (development/production)
+- {{URL}} with hostname as value (eg. http://127.0.0.1:3000)
+- {{password}} with the user's password
+ 
 You are able to:
-  - Create Tours (admins only)
-  - Get All Tours
-  - Update Tours (admins only)
-  - Delete Tours (admins only)
-  - etc...
+  - Create Tours / Users / Bookings / Reviews
+  - Get All Tours / Users / Bookings / Reviews
+  - Update Tours  / Users / Bookings / Reviews
+  - Delete Tours  / Users / Bookings / Reviews
+  - Special routes (/monthly-stats, top-5-cheap...)
+  - etc..
 
 To view the full documentation of the API: please check out...
 https://documenter.getpostman.com/view/4237486/S1LwxnaE
