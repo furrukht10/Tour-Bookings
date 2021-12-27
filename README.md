@@ -78,8 +78,8 @@ To view the full documentation of the API: please check out...
 https://documenter.getpostman.com/view/4237486/S1LwxnaE
 
 ## To Do
-- Fix booking functionality
-
+- Implement Stripe Webhooks
+- SIGTERM Signals
 
 <hr>
 *This project was designed under the supervision of Jonas Schmedtmann and his Node.Js + Advanced SCSS course.*
