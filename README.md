@@ -15,8 +15,9 @@ A tour booking application where users can signup, login and book mock tours!
 ### Deployed version: https://tour-bookings-app.herokuapp.com/
 <aref id="useage">How To Use
   
-You can view different types of tours all over the world. Login as a user and book different tours!
-To view more login information, view the API. Otherwise, use these sample users to login and book.
+You can view different types of tours all over the world. Login as a user or create an account and book different tours!
+To view more login information, view the API. Otherwise, use these sample users to login and book if you do not wish to 
+sign up.
 
 ```
 email: chris@example.com
@@ -47,7 +48,7 @@ Home Page
  <br>
  ![Tour _ All Tours](https://user-images.githubusercontent.com/79553858/147397615-db23a65f-cd4d-4b98-bced-564459d23e25.gif)
  <br>
- Login
+ Login / Update Settings
  <br>
  ![Tour _ Log into your account](https://user-images.githubusercontent.com/79553858/147397665-cc3f1818-763b-40fb-a71c-da64fd33e00c.gif)
  <br>
@@ -78,7 +79,7 @@ https://documenter.getpostman.com/view/4237486/S1LwxnaE
 
 ## To Do
 - Fix booking functionality
-- Implement sign-up functionality
+
 
 <hr>
 *This project was designed under the supervision of Jonas Schmedtmann and his Node.Js + Advanced SCSS course.*
