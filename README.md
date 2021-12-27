@@ -82,4 +82,4 @@ https://documenter.getpostman.com/view/4237486/S1LwxnaE
 - SIGTERM Signals
 
 <hr>
-*This project was designed under the supervision of Jonas Schmedtmann and his Node.Js + Advanced SCSS course.*
+_This project was designed under the supervision of Jonas Schmedtmann and his Node.Js + Advanced SCSS course._
