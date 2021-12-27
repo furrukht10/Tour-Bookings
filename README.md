@@ -17,7 +17,7 @@ A tour booking application where users can signup, login and book mock tours!
   
 You can view different types of tours all over the world. Login as a user or create an account and book different tours!
 To view more login information, view the API. Otherwise, use these sample users to login and book if you do not wish to 
- sign up.
+sign up.
 
 ```
 email: chris@example.com
@@ -79,7 +79,7 @@ https://documenter.getpostman.com/view/4237486/S1LwxnaE
 
 ## To Do
 - Fix booking functionality
-- Implement sign-up functionality
+
 
 <hr>
 *This project was designed under the supervision of Jonas Schmedtmann and his Node.Js + Advanced SCSS course.*
