@@ -5,7 +5,7 @@
   <a href="#API-Documentation">API Documentation</a> •
   <a href="#To-Do">To-Do</a> •</p>
 
-A tour booking application where users can login and book mock tours!
+A tour booking application where users can signup, login and book mock tours!
 - A Full-Stack application designed with Node.js, Express.js, PUG, MongoDB
 - Developed with a RESTful API that supports CRUD Operations on MongoDB
 - Allows users to login and book tours using Stripe
@@ -60,20 +60,25 @@ Home Page
 ## API Documentation
 
 This application uses a RESTful API that supports CRUD operations on the MongoDB Database.
+
+ To use in PostMan, use the following and replace the environment variables with yours (development/production)
+- {{URL}} with hostname as value (eg. http://127.0.0.1:3000)
+- {{password}} with the user's password
+ 
 You are able to:
-  - Create Tours (admins only)
-  - Get All Tours
-  - Update Tours (admins only)
-  - Delete Tours (admins only)
-  - etc...
+  - Create Tours / Users / Bookings / Reviews
+  - Get All Tours / Users / Bookings / Reviews
+  - Update Tours  / Users / Bookings / Reviews
+  - Delete Tours  / Users / Bookings / Reviews
+  - Special routes (/monthly-stats, top-5-cheap...)
+  - etc..
 
 To view the full documentation of the API: please check out...
 https://documenter.getpostman.com/view/4237486/S1LwxnaE
 
 ## To Do
-- Fix Mapbox glitches
 - Fix booking functionality
 - Implement sign-up functionality
 
 <hr>
-* This project was designed under the supervision of Jonas Schmedtmann and his Node.Js + Advanced SCSS course. *
+*This project was designed under the supervision of Jonas Schmedtmann and his Node.Js + Advanced SCSS course.*
