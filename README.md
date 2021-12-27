@@ -48,7 +48,7 @@ Home Page
  <br>
  ![Tour _ All Tours](https://user-images.githubusercontent.com/79553858/147397615-db23a65f-cd4d-4b98-bced-564459d23e25.gif)
  <br>
- Login
+ Login / Update Settings
  <br>
  ![Tour _ Log into your account](https://user-images.githubusercontent.com/79553858/147397665-cc3f1818-763b-40fb-a71c-da64fd33e00c.gif)
  <br>
