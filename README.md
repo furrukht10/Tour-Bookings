@@ -6,7 +6,7 @@
   <a href="#To-Do">To-Do</a> •</p>
 
 A tour booking application where users can signup, login and book mock tours!
-- A Full-Stack application designed with Node.js, Express.js, PUG, MongoDB
+- A Full Stack application designed with Node.js, Express.js, PUG, MongoDB
 - Developed with a RESTful API that supports CRUD Operations on MongoDB
 - Allows users to login and book tours using Stripe
 
