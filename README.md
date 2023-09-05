@@ -12,7 +12,7 @@ A tour booking application where users can signup, login and book mock tours!
 
 ## How To Use
 
-### Deployed version: https://tour-bookings-app.herokuapp.com/
+### Deployed version: https://tour-bookings-app.herokuapp.com
 <aref id="useage">How To Use
   
 You can view different types of tours all over the world. Login as a user or create an account and book different tours!
